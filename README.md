@@ -28,10 +28,10 @@ Aplicação web para gerenciamento de biblioteca pessoal, permitindo organizar s
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/thiagorroberto/personal-library.git
 
 # Acesse a pasta
-cd seu-repo
+cd personal-library
 
 # Instale as dependências
 npm install
