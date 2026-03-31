@@ -38,3 +38,4 @@ npm install
 
 # Rode o projeto
 npm run dev
+```
